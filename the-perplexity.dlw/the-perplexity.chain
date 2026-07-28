@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1884
+slug  : the-perplexity
+seal  : 5a243843b3aaf51396d01304987e70e4972662405ce97b17c649b1a4d2420d1e
+prev  : f84307093e3b939315b6241335cfce97f3fdb4f961770c4073ce6580702cf860
+link  : 4c3d39f10d3b5f568955df6de46cf16f37c313296411a46a18a3aa9e1c2c4c18
+head  : 0f7fffd13d57169691cb76cb79090337fa7842ec4710a774ac766502e9056032
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
